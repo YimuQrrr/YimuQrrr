@@ -1,9 +1,4 @@
-<body>
-<br>
-<div align="center">
-<img src="[IMG]/banner.gif" width="600px">
-</div>
-<br>
+
 
 
 <h2 align="center"> 💕 About me 💕 </h2>
