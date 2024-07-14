@@ -16,7 +16,7 @@
 
 ```css
 > username: YimuQr
-> about me: I enjoy coding  solving problems is satisfying.
+> about me: I enjoy coding solving problems is satisfying.
 ```
 
 ```zsh
