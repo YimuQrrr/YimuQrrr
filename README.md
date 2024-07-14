@@ -4,7 +4,7 @@
 <h2 align="center"> 💕 About me 💕 </h2>
 
 ```zsh
-> Tell me I'm dreaming Tell me I'm dreaming Tell me I'm dreaming Tell me I'm dreaming Tell me I'm dreaming
+> TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING
 ```
 
 <img align="left" src="[IMG]/main.jpg" width="205px"/>
