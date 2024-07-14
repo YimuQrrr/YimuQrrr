@@ -15,8 +15,8 @@
 <img align="left" src="[IMG]/main.jpg" width="205px"/> 
 
 ```css
-username: ar_kitty
-about me: i like to code weird stuff 🧑‍🚀
+> username: YimuQr
+> about me: I enjoy coding because it's like solving puzzles, and each solution brings me satisfaction.
 
 ```
 ```zsh
@@ -28,5 +28,5 @@ about me: i like to code weird stuff 🧑‍🚀
 ```
 
 ```zsh
-> ✨ Discord: ar_cherry
+> ✨ Discord: YimuQr#1133
 ```
