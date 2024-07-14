@@ -11,19 +11,21 @@
 
 
 ```zsh
-> username: YimuQr
-```
-```zsh
-> about me: I enjoy coding solving problems is satisfying.
-```
-```zsh
-> 💕 Fun fact: I love cute things
+> username: YimuQr 💖
 ```
 
 ```zsh
-> you are ✨ special ✨
+> about me: I enjoy coding solving problems is satisfying 💗
 ```
 
 ```zsh
-> 💕 Discord: YimuQr#1133 💕
+> Fun fact: I love cute things 🐾
+```
+
+```zsh
+> an you are special ✨
+```
+
+```zsh
+> Discord: YimuQr#1133 💜
 ```
