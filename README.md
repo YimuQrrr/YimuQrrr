@@ -4,7 +4,7 @@
 <h2 align="center"> 💕 About me 💕 </h2>
 
 ```zsh
-> TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING
+> TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING 🖤
 ```
 
 <img align="left" src="[IMG]/main.jpg" width="205px"/>
@@ -15,15 +15,15 @@
 ```
 
 ```zsh
-> about me: I enjoy coding solving problems is satisfying 💗
+> about me: I enjoy coding solving problems is satisfying 🧡
 ```
 
 ```zsh
-> Fun fact: I love cute things 🐾
+> Hobby: I'm fond of all things cute 💗
 ```
 
 ```zsh
-> an you are special ✨
+> For you: You are cute, take care of yourself 💛
 ```
 
 ```zsh
