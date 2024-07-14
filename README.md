@@ -12,7 +12,7 @@
 > ur local e-girl 
 ```
 
-<img align="left" src="[IMG]/main.jpg" width="205px" style="border-radius: 15px;"/>
+<img align="left" src="[IMG]/main.jpg" width="205px"/>
 
 ```css
 > username: YimuQr
