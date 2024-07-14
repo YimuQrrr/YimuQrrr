@@ -4,7 +4,7 @@
 > TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING 🖤
 ```
 
-<img align="left" src="card.png" width="225px"/>
+<img align="left" src="card.png" width="250px"/>
 
 ```zsh
 > username: YimuQr 💖
