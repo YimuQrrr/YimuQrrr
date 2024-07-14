@@ -1,6 +1,3 @@
-
-
-
 <h2 align="center"> 💕 About me 💕 </h2>
 
 ```zsh
@@ -8,7 +5,6 @@
 ```
 
 <img align="left" src="card.png" width="225px"/>
-
 
 ```zsh
 > username: YimuQr 💖
@@ -28,4 +24,8 @@
 
 ```zsh
 > Discord: YimuQr#1133 💜
+```
+
+```zsh
+> Twitter: @yimuqr 💜
 ```
