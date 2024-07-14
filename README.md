@@ -16,7 +16,8 @@
 
 ```css
 > username: YimuQr
-> about me: I enjoy coding because it's like solving puzzles, and each solution brings me satisfaction.
+> about me: I enjoy coding because it's like solving puzzles
+            and each solution brings me satisfaction.
 
 ```
 ```zsh
