@@ -6,7 +6,7 @@
 <br>
 
 
-<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+<h2 align="center"> 💕 About me 💕 </h2>
 
 ```zsh
 > ur local e-girl 
@@ -18,10 +18,10 @@
 > username: YimuQr
 > about me: I enjoy coding because it's like solving puzzles
             and each solution brings me satisfaction.
-
 ```
+
 ```zsh
-> ⚡ Fun fact: I love cute things
+> 💕 Fun fact: I love cute things
 ```
 
 ```zsh
@@ -29,5 +29,5 @@
 ```
 
 ```zsh
-> ✨ Discord: YimuQr#1133
+> 💕 Discord: YimuQr#1133 💕
 ```
