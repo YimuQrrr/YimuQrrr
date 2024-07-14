@@ -9,11 +9,13 @@
 
 <img align="left" src="[IMG]/main.jpg" width="205px"/>
 
-```css
+
+```zsh
 > username: YimuQr
+```
+```zsh
 > about me: I enjoy coding solving problems is satisfying.
 ```
-
 ```zsh
 > 💕 Fun fact: I love cute things
 ```
