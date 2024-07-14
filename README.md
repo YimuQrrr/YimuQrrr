@@ -7,7 +7,7 @@
 > TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING TELL ME IM DREAMING 🖤
 ```
 
-<img align="left" src="card.png" width="205px"/>
+<img align="left" src="card.png" width="250px"/>
 
 
 ```zsh
