@@ -15,7 +15,7 @@
 ```
 
 ```zsh
-> Hobby: I'm fond of all things cute 💗
+> Hobby: I fond of all things cute 💗
 ```
 
 ```zsh
