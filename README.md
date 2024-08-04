@@ -19,7 +19,7 @@
 ```
 
 ```zsh
-> For you: You are cute, take care of yourself 💛
+> For you: You are cute  take care of yourself 💛
 ```
 
 ```zsh
