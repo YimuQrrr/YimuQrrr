@@ -27,5 +27,5 @@
 ```
 
 ```zsh
-> Twitter: @yimuqr 💜
+> Email: yimu@yimuqr.com 💜
 ```
