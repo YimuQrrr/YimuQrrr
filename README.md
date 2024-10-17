@@ -27,5 +27,5 @@
 ```
 
 ```zsh
-> Bio: https://e-z.bio/yimuqr 💜
+> Bio: [https://e-z.bio/yimuqr](https://e-z.bio/yimuqr) 💜
 ```
