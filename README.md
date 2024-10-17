@@ -23,9 +23,9 @@
 ```
 
 ```zsh
-> Discord: YimuQr#1133 💜
+> Email: yimu@yimuqr.com 💜
 ```
 
 ```zsh
-> Email: yimu@yimuqr.com 💜
+> Bio: https://e-z.bio/yimuqr 💜
 ```
